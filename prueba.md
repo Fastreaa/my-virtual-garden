@@ -9,3 +9,7 @@ date: 2025-11-05
 Hola, este es mi primer artículo publicado con Flowershow. La plataforma convierte todo lo que escribo aquí en HTML automáticamente.
 
 Puedo hacer enlaces a otras [[Mis Ideas Clave]] y usar negritas **fácilmente**.
+
+# EMI
+asdasdas
+asdasd
